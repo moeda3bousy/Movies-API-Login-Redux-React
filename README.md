@@ -7,7 +7,7 @@
 ---------------
 
 ## Description
-This is a movies App to help users keep track with the new and trending movies
+This is a movies/tvShows App to help users keep track with the new and trending movies/tvShows
 
 ------------------------
 
