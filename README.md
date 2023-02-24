@@ -19,7 +19,7 @@ https://moeda3bousy.github.io/Movies-API-Login-Redux-React
 ## Installations-Steps
 install dependence by: npm install
 
-clone repo by: git clone https://github.com/moeda3bousy/Movies-API-Login-Redux-Reac
+clone repo by: git clone https://github.com/moeda3bousy/Movies-API-Login-Redux-React
 
 run project by: npm start
 
